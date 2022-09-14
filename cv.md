@@ -1,5 +1,8 @@
 # CV
 ## Zhuliova Violetta
+
+![Profile foto!](https://raw.githubusercontent.com/Violetta-san/rsschool-cv/gh-pages/vi_cv_foto.jpg "Profile foto")
+
 ### Contacts:
 __<Violetka_megagirl@mail.ru>__   
 __[LinkedIn](https://www.linkedin.com/in/violetta-g-b36532244/)__
@@ -33,4 +36,3 @@ Brest State Technical University.
 ### English level:
 Level A2-B1. I study with a teacher every week, as well as on my own.
 
-### Profile foto:
