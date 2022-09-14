@@ -5,7 +5,9 @@ __<Violetka_megagirl@mail.ru>__
 __[LinkedIn](https://www.linkedin.com/in/violetta-g-b36532244/)__
 
 ### About me:
-
+___My main goal___ is to develop every day and try to learn something new.   
+I am a fast learner, I understand mathematics and other analytical sciences well, but like any person I tend to be lazy.    
+I graduated from a technical university as an engineer, worked for two years at a factory. I don't have programming experience yet, but I'd be glad to get it.
 
 ### Skills: 
 HTML/CSS, JS, Git, Figma, VS Code - _(beginner)_.
